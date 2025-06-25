@@ -206,8 +206,7 @@ class DocumentAnalyzer {
                         role: 'user',
                         content: prompt
                     }
-                ],
-                temperature: 0.1
+                ]
             })
         });
         if (!response.ok) {
@@ -255,8 +254,7 @@ class DocumentAnalyzer {
                             role: 'user',
                             content: chunkPrompt
                         }
-                    ],
-                    temperature: 0.1
+                    ]
                 })
             });
             if (!response.ok) {
