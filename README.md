@@ -1,5 +1,7 @@
 # 📑 Document Compliance Analyzer
 
+> **This is a demo. It contains no confidential data/IP.**
+
 A browser-based tool that uses **pdf.js** and **LLM APIs (via OpenRouter)** to analyze large PDF documents for compliance questions.  
 Upload a PDF, enter a compliance query, and get structured results with **evidence, page number, and reasoning** – all powered by AI.
 
